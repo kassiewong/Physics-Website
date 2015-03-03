@@ -1,0 +1,7 @@
+- Put logo and nav on one line
+- Make mobile friendly
+- https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c
+- Current page color change
+- Resize video and animation
+- vidcontent - move to top (vertically center)
+
